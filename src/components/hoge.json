@@ -1,0 +1,171 @@
+{
+  "scenarioSeason": [
+    {
+      "id": 1,
+      "scenario": "グランドライブ",
+      "season": "ジュニア"
+    },
+    {
+      "id": 2,
+      "scenario": "グランドライブ",
+      "season": "クラシック前半"
+    },
+    {
+      "id": 3,
+      "scenario": "グランドライブ",
+      "season": "クラシック後半"
+    },
+    {
+      "id": 4,
+      "scenario": "グランドライブ",
+      "season": "シニア"
+    }
+  ],
+  "musicData": [
+    {
+      "id": 1,
+      "scenario": "グランドライブ",
+      "season": "ジュニア",
+      "name": "奇跡を信じて！",
+      "icon": "https://lh3.googleusercontent.com/JAI6fQpo7xdoN-SNVx9_55muI5V-fg1TbYJT2MvOEmdpclYoMa3jfylY7R9MKUkrORcGF1QdutbVk56LKjtZAKZS-lthZi8rXT2UrMoumbs=rw",
+      "overallRating": 5,
+      "performance": {
+        "da": 5,
+        "pa": 5,
+        "vo": 5,
+        "vi": 5,
+        "me": 5
+      },
+      "effect": [
+        {
+          "icon": "https://lh3.googleusercontent.com/DXP25YqZ2UG3FqPwxrggeu9ti8TlBE5xo3CBM7ZcnMQVt6p1jTRrKRHRJ73wwiGlWbmKu3YoOeLHrYmDbzFpS3iyAIDoVTfQNz5T239anPsNSQ=rw",
+          "text": "トレーニングの賢さ上昇量+1"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        },
+        {
+          "icon": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "scenario": "グランドライブ",
+      "season": "ジュニア",
+      "name": "奇跡を信じて！2",
+      "icon": "https://lh3.googleusercontent.com/JAI6fQpo7xdoN-SNVx9_55muI5V-fg1TbYJT2MvOEmdpclYoMa3jfylY7R9MKUkrORcGF1QdutbVk56LKjtZAKZS-lthZi8rXT2UrMoumbs=rw",
+      "overallRating": 4,
+      "performance": {
+        "da": 4,
+        "pa": 4,
+        "vo": 4,
+        "vi": 4,
+        "me": 4
+      },
+      "effect": [
+        {
+          "icon": "https://lh3.googleusercontent.com/DXP25YqZ2UG3FqPwxrggeu9ti8TlBE5xo3CBM7ZcnMQVt6p1jTRrKRHRJ73wwiGlWbmKu3YoOeLHrYmDbzFpS3iyAIDoVTfQNz5T239anPsNSQ=rw",
+          "text": "トレーニングの賢さ上昇量+1"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "scenario": "グランドライブ",
+      "season": "クラシック前半",
+      "name": "奇跡を信じて！クラシック前半",
+      "icon": "https://lh3.googleusercontent.com/JAI6fQpo7xdoN-SNVx9_55muI5V-fg1TbYJT2MvOEmdpclYoMa3jfylY7R9MKUkrORcGF1QdutbVk56LKjtZAKZS-lthZi8rXT2UrMoumbs=rw",
+      "overallRating": 3,
+      "performance": {
+        "da": 3,
+        "pa": 3,
+        "vo": 3,
+        "vi": 3,
+        "me": 3
+      },
+      "effect": [
+        {
+          "icon": "https://lh3.googleusercontent.com/DXP25YqZ2UG3FqPwxrggeu9ti8TlBE5xo3CBM7ZcnMQVt6p1jTRrKRHRJ73wwiGlWbmKu3YoOeLHrYmDbzFpS3iyAIDoVTfQNz5T239anPsNSQ=rw",
+          "text": "トレーニングの賢さ上昇量+1"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        },
+        {
+          "icon": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "scenario": "グランドライブ",
+      "season": "クラシック後半",
+      "name": "奇跡を信じて！クラシック後半",
+      "icon": "https://lh3.googleusercontent.com/JAI6fQpo7xdoN-SNVx9_55muI5V-fg1TbYJT2MvOEmdpclYoMa3jfylY7R9MKUkrORcGF1QdutbVk56LKjtZAKZS-lthZi8rXT2UrMoumbs=rw",
+      "overallRating": 2,
+      "performance": {
+        "da": 2,
+        "pa": 2,
+        "vo": 2,
+        "vi": 2,
+        "me": 2
+      },
+      "effect": [
+        {
+          "icon": "https://lh3.googleusercontent.com/DXP25YqZ2UG3FqPwxrggeu9ti8TlBE5xo3CBM7ZcnMQVt6p1jTRrKRHRJ73wwiGlWbmKu3YoOeLHrYmDbzFpS3iyAIDoVTfQNz5T239anPsNSQ=rw",
+          "text": "トレーニングの賢さ上昇量+1"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        },
+        {
+          "icon": "",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "scenario": "グランドライブ",
+      "season": "シニア",
+      "name": "奇跡を信じて！シニア",
+      "icon": "https://lh3.googleusercontent.com/JAI6fQpo7xdoN-SNVx9_55muI5V-fg1TbYJT2MvOEmdpclYoMa3jfylY7R9MKUkrORcGF1QdutbVk56LKjtZAKZS-lthZi8rXT2UrMoumbs=rw",
+      "overallRating": 1,
+      "performance": {
+        "da": 1,
+        "pa": 1,
+        "vo": 1,
+        "vi": 1,
+        "me": 1
+      },
+      "effect": [
+        {
+          "icon": "https://lh3.googleusercontent.com/DXP25YqZ2UG3FqPwxrggeu9ti8TlBE5xo3CBM7ZcnMQVt6p1jTRrKRHRJ73wwiGlWbmKu3YoOeLHrYmDbzFpS3iyAIDoVTfQNz5T239anPsNSQ=rw",
+          "text": "トレーニングの賢さ上昇量+1"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        },
+        {
+          "icon": "https://lh3.googleusercontent.com/V4H0ocTEMqMOufLe_evj80DjtJGfbNovsp0hXPycg71KAq0Y4vjgc-JO98fHKeT45gu-rZ4TB-vUbvxXFMwYo-QS782FJwTRSP9F_xb9McMB=rw",
+          "text": "得意率アップ+5"
+        }
+      ]
+    }
+  ]
+}
